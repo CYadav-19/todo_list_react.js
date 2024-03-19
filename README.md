@@ -1,0 +1,10 @@
+-TODO LIST
+-  Developed a comprehensive to-do list application in React
+- Implemented essential features including adding, deleting, and editing list items for enhanced task management.
+- Leveraged React hooks, including useState and useEffect, to manage state and perform side effects efficiently.
+- Utilized local storage and custom hooks to persist user data across sessions, ensuring seamless user experience.
+- Demonstrated proficiency in React fundamentals, state management, and integrating external APIs for data storage.
+- Designed a user-friendly interface with responsive design principles for optimal viewing across devices.
+- Achieved project objectives through collaborative teamwork, effective problem-solving, and continuous learning.
+-Home Page ![image](https://github.com/chaitanya-1818/todo_list_react.js/assets/139042738/f2bcbb14-72f3-4080-a356-68afbe927967)
+-Actual Page ![image](https://github.com/chaitanya-1818/todo_list_react.js/assets/139042738/a5d5d989-f4fb-41a4-80ae-6b24320b52b3)
